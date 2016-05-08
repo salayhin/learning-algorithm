@@ -1,1 +1,1 @@
-# learning-algorithm
+# Algorighm
